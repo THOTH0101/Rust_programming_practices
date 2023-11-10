@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["pig_latin"];

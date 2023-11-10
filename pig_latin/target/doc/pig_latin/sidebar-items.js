@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["is_vowel_initial","main","pig_latin_words"]};
